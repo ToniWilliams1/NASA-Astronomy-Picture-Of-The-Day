@@ -1,19 +1,48 @@
+html{
+  background-image: url('https://media4.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif?cid=ecf05e4739b6qkx82fo2uh5qzfjawal4y5wex8necm2dxtnq&rid=giphy.gif&ct=g');
+
+
+}
 
 h1{
   font-size: 100px;
+  text-align: center;
+  color: white;
+  font-family: "Bungee Hairline", cursive;
 }
 
-body, button {
+h2, h3{
+ 
+   text-align: center;
+  color: white;
+  font-family: "Bungee Hairline", cursive;
+}
+
+input{
+  text-align: center;
+}
+
+ button {
    font-family: "Bungee Hairline", cursive;
-  color: silver;
-    background-image: url('https://media4.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif?cid=ecf05e4739b6qkx82fo2uh5qzfjawal4y5wex8necm2dxtnq&rid=giphy.gif&ct=g');
-background-size: 100%;
-  background-repeat: no-repeat
+  color: white;
+  background-color: black;
+  border: 1px solid white;
 }
 
 
 
 img {
   width: 50%;
+
+  padding-bottom: 10%;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
 
