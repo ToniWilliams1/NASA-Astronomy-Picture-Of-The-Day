@@ -1,0 +1,19 @@
+
+h1{
+  font-size: 100px;
+}
+
+body, button {
+   font-family: "Bungee Hairline", cursive;
+  color: silver;
+    background-image: url('https://media4.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif?cid=ecf05e4739b6qkx82fo2uh5qzfjawal4y5wex8necm2dxtnq&rid=giphy.gif&ct=g');
+background-size: 100%;
+  background-repeat: no-repeat
+}
+
+
+
+img {
+  width: 50%;
+}
+
