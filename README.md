@@ -1,15 +1,11 @@
 
-# NASA-APOD
-This project will allow users to receive a picture from NASA of the day they select, along with a description of the given photo.
+# NASA Picture of The Day
+This project will allow users to receive a picture from NASA of the day they select, along with the title, and a description of the given photo.
 
-View the live site here:
+## View the live site here:
 
-<h1>   Technology </h1>
-- CSS 
-- JavaScript
-- NASA API Key
+## Acknowledgements
+- [NASA] (https://api.nasa.gov/)
+- [Font Awesome](https://fontawesome.com/)
 
 
-<h2> Contact </h2>
-e-mail: toniwilliams03@outlook.com
-Twitter: @tonistechtalk
