@@ -2,7 +2,7 @@
 ##  NASA's Astronomy Picture of The Day 🚀
 This simple app allows users to receive a picture from NASA by selecting a date. The photo also comes with the title, and a description of the given photo.
 
-## View the live site here:
+## View The Live Site Here:
 https://nasas-astronomy-picture-of-the-day.netlify.app/
 
 ## Acknowledgements
