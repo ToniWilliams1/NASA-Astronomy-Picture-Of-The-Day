@@ -5,7 +5,7 @@ This simple app allows users to receive a picture from NASA by selecting a date.
 ## View The Live Site Here:
 https://nasas-astronomy-picture-of-the-day.netlify.app/
 
-## Acknowledgements
+## Acknowledgements:
 - [NASA's APOD API](https://api.nasa.gov/)
 
 ## Contributing
