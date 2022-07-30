@@ -19,10 +19,10 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
-## Authors
+## Authors:
 
 - [Toni Williams](https://www.github.com/toniwilliams1)
 
-## Feedback
+## Feedback:
 
 If you have any feedback, please reach out to us at toniwilliams03@outlook.com
