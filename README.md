@@ -25,4 +25,4 @@ Please adhere to this project's `code of conduct`.
 
 ## Feedback:
 
-If you have any feedback, please reach out to us at toniwilliams03@outlook.com
+If you have any feedback, please reach out to toniwilliams03@outlook.com.
