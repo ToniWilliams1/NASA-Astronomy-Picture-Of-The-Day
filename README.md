@@ -1,12 +1,12 @@
 
 ##  NASA's Astronomy Picture of The Day 🚀
-This simple app allows users to receive a picture from NASA by selecting a date. The photo also comes with the title, and a description of the given photo.
+This simple app allows users to receive a picture from NASA by selecting a date. The photo also comes with the title, and a description of the given photo, and the photographer
 
 ## View The Live Site Here:
-https://nasas-astronomy-picture-of-the-day.netlify.app/
+[Live Site](https://nasas-astronomy-picture-of-the-day.netlify.app/)
 
 ## Tech Used:
-HTML/CSS, JavaScript, React, REST API
+HTML/CSS, JavaScript, NASA Photo of the Day API
 
 ## Acknowledgements:
 - [NASA's APOD API](https://api.nasa.gov/)
