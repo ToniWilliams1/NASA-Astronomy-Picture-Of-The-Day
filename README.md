@@ -40,5 +40,6 @@ Please adhere to this project's `code of conduct`.
 [Toni Williams](https://www.github.com/toniwilliams1)
 
 ## Feedback:
-
+Liked the work ?
+Give the repository a star :-)
 If you have any feedback, please reach out to toniwilliams03@outlook.com.
