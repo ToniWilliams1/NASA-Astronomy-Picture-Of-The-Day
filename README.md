@@ -5,12 +5,12 @@ This simple app allows users to receive a picture from NASA by selecting a date.
 
 ## Preview:
 <img width="1200" alt="Screen Shot 2022-11-05 at 1 57 54 AM" src="https://user-images.githubusercontent.com/100317017/200104931-2b389eb6-26e2-485e-831f-194ce568d707.png">
+View the live site [here](https://nasas-astronomy-picture-of-the-day.netlify.app/)
 
 
 ## Installation
-View The Live Site [Here]:(https://nasas-astronomy-picture-of-the-day.netlify.app/)
 
-Generate your own personal [NASA API key](https://api.nasa.gov/) to fetch the data from this provider.
+Sign up with your email address to generate your own personal [NASA API key](https://api.nasa.gov/) to fetch the data from this provider.
 
 
 ## Tech Used:
