@@ -12,7 +12,13 @@ View the live site [here](https://nasas-astronomy-picture-of-the-day.netlify.app
 
 ## Installation
 
-Sign up with your email address to generate your own personal [NASA API key](https://api.nasa.gov/) to fetch the data from this provider.
+Get a free API Key [here](https://api.nasa.gov/).
+
+Clone the repo
+git clone https://github.com/toniwilliams1/NASA-Astronomy-Picture-Of-The-Day.git
+
+Enter your API in config.js
+const API_KEY = 'ENTER YOUR API';
 
 
 ## Tech Used:
