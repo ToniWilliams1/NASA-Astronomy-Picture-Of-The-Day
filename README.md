@@ -31,7 +31,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Authors:
 
-- [Toni Williams](https://www.github.com/toniwilliams1)
+[Toni Williams](https://www.github.com/toniwilliams1)
 
 ## Feedback:
 
