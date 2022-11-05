@@ -2,7 +2,11 @@
 ##  NASA's Astronomy Picture of The Day 🚀
 This simple app allows users to receive a picture from NASA by selecting a date. The photo also comes with the title, and a description of the given photo.
 
+
 # Preview:
+<img width="1439" alt="Screen Shot 2022-11-05 at 1 57 54 AM" src="https://user-images.githubusercontent.com/100317017/200104931-2b389eb6-26e2-485e-831f-194ce568d707.png">
+
+
 
 
 ## View The Live Site Here:
