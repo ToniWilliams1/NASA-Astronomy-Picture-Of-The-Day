@@ -1,25 +1,31 @@
-document.querySelector('button').addEventListener('click', getFetch)
+document.querySelector("button").addEventListener("click", getFetch);
+const imagesContainer = document.querySelector(".images-container");
 
-function getFetch(){
-  const choice = document.querySelector('input').value
- 
-  const url = `https://api.nasa.gov/planetary/apod?api_key=iJy0Nd4wZZzfW2HFgBkNV4DDUsZ6PxL3RqQRgFfI&date=${choice}`
+function getFetch() {
+  const choice = document.querySelector("input").value;
+
+  const url = `https://api.nasa.gov/planetary/apod?api_key=iJy0Nd4wZZzfW2HFgBkNV4DDUsZ6PxL3RqQRgFfI&date=${choice}`;
 
   fetch(url)
-      .then(res => res.json()) // parse response as JSON
-      .then(data => {
-        console.log(data)
-        if(data.media_type === "image"){
-          document.querySelector('img').src = data.hdurl
-        }else if(data.media_type === 'video'){
-          document.querySelector('iframe').src = data.url
-        }else{
-          alert('Media Not Supported - Contact NASA IMMEDIATLY')
-        }
-      
-        document.querySelector('h3').innerText = data.explanation
-      })
-      .catch(err => {
-          console.log(`error ${err}`)
-   })
+    .then((res) => res.json()) // parse response as JSON
+    .then((data) => {
+      console.log(data);
+      if (data.media_type === "image") {
+        document.querySelector("#img").src = data.hdurl;
+      } else if (data.media_type === "video") {
+        document.querySelector("iframe").src = data.url;
+      } else {
+        alert("Media Not Supported - Contact NASA IMMEDIATLY");
+      }
+      document.querySelector("#card").style.display = "block";
+
+      document.querySelector("h2").innerText = data.title;
+      document.querySelector("h3").innerText = data.explanation;
+          document.querySelector("h4").innerText = data.date;
+
+    })
+    .catch((err) => {
+      console.log(`error ${err}`);
+    });
 }
+
