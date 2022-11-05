@@ -8,11 +8,10 @@ This simple app allows users to receive a picture from NASA by selecting a date.
 
 
 ## Installation
+View The Live Site [Here]:(https://nasas-astronomy-picture-of-the-day.netlify.app/)
 
 Generate your own personal [NASA API key](https://api.nasa.gov/) to fetch the data from this provider.
 
-## View The Live Site Here:
-[Live Site](https://nasas-astronomy-picture-of-the-day.netlify.app/)
 
 ## Tech Used:
 HTML, JavaScript, TailwindCSS, NASA Photo of the Day API
