@@ -20,9 +20,9 @@ const API_KEY = 'ENTER YOUR API';
 
 
 ## Acknowledgements:
-- [NASA](https://api.nasa.gov/)
+- [NASA API](https://api.nasa.gov/)
 
 ## Feedback:
 Liked the work ?
-Give the repository a star :-)
+Give the repository a star ⭐️
 If you have any feedback, please reach out to toniwilliams03@outlook.com.
