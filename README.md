@@ -9,7 +9,7 @@ Take a trip to outer space! Pick any date to see how the stars were aligned.
 Daisy-UI <br>
 Custom stylesheet
 
- • Backend <br>
+ • Back end <br>
  Node.js <br>
 NASA API
 
