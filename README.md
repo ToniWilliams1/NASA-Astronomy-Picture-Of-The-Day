@@ -1,5 +1,5 @@
 
-#  NASA's Astronomy Picture of The Day 🚀
+#  LA Stargazers Society NASA APOD Web APP 🚀
 This simple app allows users to receive a picture from NASA by selecting a date. The photo also comes with the title, and a description of the given photo.
 
 
@@ -20,7 +20,7 @@ Custom stylesheet
 ## Core Features
 • A user can enter any dae and see a photo, description of the photo, the photographer, and the location of the content.
 
-## Installation
+## Start LA Stargazers Society NASA APOD Web App
 
 Get a free API Key [here](https://api.nasa.gov/).
 
