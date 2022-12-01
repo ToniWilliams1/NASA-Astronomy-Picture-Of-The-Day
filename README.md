@@ -1,5 +1,5 @@
 
-##  NASA's Astronomy Picture of The Day 🚀
+#  NASA's Astronomy Picture of The Day 🚀
 This simple app allows users to receive a picture from NASA by selecting a date. The photo also comes with the title, and a description of the given photo.
 
 
@@ -8,20 +8,20 @@ View the live site [here](https://nasas-astronomy-picture-of-the-day.netlify.app
 
 ## Key Technologies, Packages, and Gems
 
-# • Front end
+## • Front end
 
 
 Daisy-UI
 Custom stylesheet
 
-# • Backend
+## • Backend
 
-NASA APOD API
+[NASA API](https://api.nasa.gov/)
 
 ## Core Features
 • A user can enter any dae and see a photo, description of the photo, the photographer, and the location of the content.
 
-## Installation
+# Installation
 
 Get a free API Key [here](https://api.nasa.gov/).
 
@@ -31,8 +31,5 @@ git clone https://github.com/toniwilliams1/NASA-Astronomy-Picture-Of-The-Day.git
 Enter your API in script.js
 const API_KEY = 'ENTER YOUR API';
 
-
-## Acknowledgements
-[NASA API](https://api.nasa.gov/)
 
 
