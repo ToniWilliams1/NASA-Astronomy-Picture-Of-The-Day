@@ -8,17 +8,18 @@ View the live site [here](https://nasas-astronomy-picture-of-the-day.netlify.app
 
 ## Key Technologies, Packages, and Gems
 
-Frontend
+• Front end
 
 
 Daisy-UI
 Custom stylesheet
 
-Backend
+• Backend
 
 NASA APOD API
 
-
+• Core Features
+• A user can enter any dae and see a photo, description of the photo, the photographer, and the location of the content.
 
 ## Installation
 
