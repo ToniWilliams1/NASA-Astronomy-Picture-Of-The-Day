@@ -1,6 +1,7 @@
 
 #  LA Stargazers Society NASA APOD Web APP 🚀
-This simple app allows users to receive a picture from NASA by selecting a date. The photo also comes with the title, and a description of the given photo.
+
+Take a trip to outer space! Pick any date to see how the stars were aligned.
 
 
 ## [Demo](https://nasas-astronomy-picture-of-the-day.netlify.app/)
@@ -8,27 +9,29 @@ This simple app allows users to receive a picture from NASA by selecting a date.
 
 ## Key Technologies, Packages, and Gems
 
- • Front end
- 
-Daisy-UI
+ •Front end
+Daisy-UI <br>
 Custom stylesheet
 
  • Backend
- 
-[NASA API](https://api.nasa.gov/)
+ Node.js <br>
+NASA API
 
 ## Core Features
-• A user can enter any dae and see a photo, description of the photo, the photographer, and the location of the content.
+Users can enter any date of their choosing and see a photo, description of the photo, the photographer, and the location of the content.
 
-## Start LA Stargazers Society NASA APOD Web App
+## Start App
 
-Get a free API Key [here](https://api.nasa.gov/).
+npm install
 
 Clone the repo
 git clone https://github.com/toniwilliams1/NASA-Astronomy-Picture-Of-The-Day.git
 
-Enter your API in script.js
-const API_KEY = 'ENTER YOUR API';
+npm start
+
+## Things To Add
+
+[NASA API Key](https://api.nasa.gov/)
 
 
 
