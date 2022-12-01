@@ -5,11 +5,11 @@ Take a trip to outer space! Pick any date to see how the stars were aligned.
 
 ## Key Technologies, Packages, and Gems
 
- •Front end
+ •Front end <br>
 Daisy-UI <br>
 Custom stylesheet
 
- • Backend
+ • Backend <br>
  Node.js <br>
 NASA API
 
