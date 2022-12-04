@@ -1,5 +1,5 @@
 
-#  LA Stargazers Society NASA APOD Web App 🚀
+#  NASA Space Exploration
 
 Take a trip to outer space! Pick any date to see how the stars were aligned.
 
