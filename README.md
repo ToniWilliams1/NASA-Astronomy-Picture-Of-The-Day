@@ -25,9 +25,7 @@ git clone https://github.com/toniwilliams1/NASA-Astronomy-Picture-Of-The-Day.git
 
 npm start
 
-## Things To Add
 
-[NASA API Key](https://api.nasa.gov/)
 
 ## [Demo](https://nasas-astronomy-picture-of-the-day.netlify.app/)
 <img width="1200" alt="Screen Shot 2022-11-05 at 1 57 54 AM" src="https://user-images.githubusercontent.com/100317017/200104931-2b389eb6-26e2-485e-831f-194ce568d707.png">
