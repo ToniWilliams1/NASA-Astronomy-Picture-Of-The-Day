@@ -1,20 +1,20 @@
 
-#  NASA Space Exploration
+#  NASA Astronomy Picture of The Dat
 
 Take a trip to outer space! Pick any date to see how the stars were aligned.
 
 ## Key Technologies, Packages, and Gems
 
- •Front end <br>
+ ## Front end <br>
+Daisy-UI <br>
 HTML <br>
-CSS <br>
+Tailwind CSS <br>
 JavaScript <br>
 Daisy-UI <br>
-Custom stylesheet
 
- • Back end <br>
+## Back end <br>
+ NASA API
 Node.js <br>
-NASA API
 
 ## Core Features
 Users can enter any date of their choosing and see a photo, description of the photo, the photographer, and the location of the content.
