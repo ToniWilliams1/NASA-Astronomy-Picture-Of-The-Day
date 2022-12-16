@@ -12,7 +12,7 @@ Tailwind CSS <br>
 JavaScript <br>
 
 ## Back end <br>
- NASA API
+ NASA API <br>
 Node.js <br>
 
 ## Core Features
