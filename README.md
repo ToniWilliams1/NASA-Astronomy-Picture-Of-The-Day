@@ -10,7 +10,6 @@ Daisy-UI <br>
 HTML <br>
 Tailwind CSS <br>
 JavaScript <br>
-Daisy-UI <br>
 
 ## Back end <br>
  NASA API
