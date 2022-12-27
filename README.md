@@ -1,5 +1,5 @@
 
-#  NASA Astronomy Picture of The Dat
+#  NASA Astronomy Picture of The Day
 
 Take a trip to outer space! Pick any date to see how the stars were aligned.
 
