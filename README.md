@@ -1,7 +1,7 @@
 
 #  NASA Astronomy Picture of The Day
 
-Take a trip to outer space! Pick any date to see how the stars were aligned.
+We're going on a trip in our favortie rocket ship! Let's explore outer space!
 
 ## Key Technologies, Packages, and Gems
 
