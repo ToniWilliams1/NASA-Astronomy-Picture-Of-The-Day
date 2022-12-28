@@ -38,7 +38,7 @@ npm start
 
 
 
-<img width="1200" alt="https://user-images.githubusercontent.com/100317017/209872661-d57150bf-10a3-4013-895e-a235b226281f.gif
+<img width="1200" src="https://user-images.githubusercontent.com/100317017/209872661-d57150bf-10a3-4013-895e-a235b226281f.gif
 ">
 
 
