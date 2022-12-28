@@ -36,7 +36,9 @@ npm start
 ## [Demo](https://nasas-astronomy-picture-of-the-day.netlify.app/)
 
 
-<img width="1200" alt="Screen Shot 2022-11-05 at 1 57 54 AM" src="https://user-images.githubusercontent.com/100317017/209872525-53546187-43f9-4f08-bc25-e0baf8711ec3.mp4
+
+
+<img width="1200" alt="https://user-images.githubusercontent.com/100317017/209872661-d57150bf-10a3-4013-895e-a235b226281f.gif
 ">
 
 
