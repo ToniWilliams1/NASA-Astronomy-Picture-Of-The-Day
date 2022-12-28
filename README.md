@@ -5,22 +5,22 @@ We're going on a trip in our favortie rocket ship! Let's explore outer space!
 
 ## Key Technologies, Packages, and Gems
 
- ## Front end <br>
-Daisy-UI <br>
-HTML <br>
-Tailwind CSS <br>
-JavaScript <br>
+ ## Front End <br>
+• Daisy-UI <br>
+• HTML <br>
+• Tailwind CSS <br>
+• JavaScript <br>
 
 ## Back end <br>
- NASA API <br>
-Node.js <br>
+• [NASA API](https://api.nasa.gov/) <br>
+• Node.js <br>
 
 ## Core Features
-Users can enter any date of their choosing and see a photo, description of the photo, the photographer, and the location of the content.
+• Users can enter any date of their choosing and see a photo, description of the photo, the photographer, and the location of the content.
 
 ## Start App
 
-npm install
+NPM install
 
 Clone the repo
 git clone https://github.com/toniwilliams1/NASA-Astronomy-Picture-Of-The-Day.git
