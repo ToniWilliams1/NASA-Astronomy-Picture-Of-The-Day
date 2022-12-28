@@ -36,10 +36,10 @@ npm start
 ## [Demo](https://nasas-astronomy-picture-of-the-day.netlify.app/)
 
 
+![NASA APOD](https://user-images.githubusercontent.com/100317017/209872702-fab2a567-832d-4e09-8ae4-150995c60a4d.gif)
 
 
-<img width="1200" src="https://user-images.githubusercontent.com/100317017/209872661-d57150bf-10a3-4013-895e-a235b226281f.gif
-">
+
 
 
 
