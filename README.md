@@ -1,7 +1,7 @@
 
 #  NASA Astronomy Picture of The Day
 
-We're going on a trip in our favortie rocket ship! Let's explore outer space!
+We're going on a trip in our favorite rocket ship! Let's explore outer space!
 
 ## Key Technologies, Packages, and Gems
 
@@ -33,7 +33,7 @@ npm start
 
 
 
-## [Demo](https://nasas-astronomy-picture-of-the-day.netlify.app/)
+## [Demo](https://nasa-astronomy-picture-of-the-day-go3g.onrender.com/))
 
 
 ![NASA APOD](https://user-images.githubusercontent.com/100317017/209872702-fab2a567-832d-4e09-8ae4-150995c60a4d.gif)
