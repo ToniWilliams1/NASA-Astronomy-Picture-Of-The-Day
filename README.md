@@ -33,7 +33,7 @@ npm start
 
 
 
-## [Demo](https://nasa-astronomy-picture-of-the-day-go3g.onrender.com/))
+## [Demo](https://nasa-astronomy-picture-of-the-day-go3g.onrender.com/)
 
 
 ![NASA APOD](https://user-images.githubusercontent.com/100317017/209872702-fab2a567-832d-4e09-8ae4-150995c60a4d.gif)
